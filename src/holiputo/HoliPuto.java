@@ -11,7 +11,7 @@ package holiputo;
  */
 public class HoliPuto {
     
-    private int pene;
+    private int pene1;
     /**
      * @param args the command line arguments 
        */
