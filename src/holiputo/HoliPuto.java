@@ -12,6 +12,7 @@ package holiputo;
 public class HoliPuto {
     
     private int pengge;
+    private String panocha;
     /**
      * @param args the command line arguments 
        */
